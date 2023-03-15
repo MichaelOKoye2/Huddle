@@ -22,21 +22,3 @@ export default Firstdiv;
 
 
 
-/*{ <div className="div-container w-full">
-<Huddlelogo />
-<div className='text'>
-<h1 className='text-lg font-bold'>Build The Community <br />
- Your Fans Will Love
- </h1> 
- <p>Huddle re-imagines the way we build communities. You have <br /> a voice, but so does your audience. Create connections with <br /> your users as you engage in genuine discussions</p>
-
- <button className='hover:bg-pink-500'><span>Get Started For Free</span></button>
-</div>
-<div className="imageblock">
-    <img src="imgs/illustration-mockups.svg" alt="" />
-</div>
-
-
-
- 
-</div> }*/

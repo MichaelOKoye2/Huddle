@@ -17,8 +17,8 @@ const Thirddiv = () => {
       </div>
       <div class="address-row">
         <div className="email-icon"></div>
-        <a href="#">
-          <p>email@huddle.com</p>
+        <a href="https://github.com/Playdirtyy/Huddle.git">
+          <p>github account</p>
         </a>
       </div>
 
